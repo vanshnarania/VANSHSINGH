@@ -1,6 +1,6 @@
-# VANSHSINGH
+# VANSHNARANIA
 This is my first git repository
 <br>
-Author - vansh (singh)
+Author - vansh (NARANIA)
 
 
